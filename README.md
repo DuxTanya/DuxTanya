@@ -1,68 +1,93 @@
-<h1 align="center">Hi 👋, I'm Tanya Agarwal</h1>
-<h3 align="center">Currently pursuing B.E in Chemical department from Jadavpur University</h3>
+# Hi 👋, I'm Tanya Agarwal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duxtanya&label=Profile%20views&color=0e75b6&style=flat" alt="duxtanya" /> </p>
+### Full-Stack Developer | React Enthusiast | DSA Learner | Problem Solver
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duxtanya" alt="duxtanya" /></a> </p>
+🚀 Passionate about building modern web applications and solving complex problems through code.
 
-###
-# Welcome to My GitHub Profile!
+💻 Exploring the world of full-stack development with React, Node.js, and Data Structures & Algorithms.
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
-
-## 👨‍🔬 About Me
-
-Hi! I am a **Chemical Engineer** with a passion for technology and coding. My expertise extends beyond my core field into the exciting realms of software development and problem-solving. Here are some highlights:
-
-- 💻 Proficient in **C**, **C++**, and **Java**.
-- 🔍 Mastering **Data Structures and Algorithms** to tackle complex challenges.
-- 🧪 Blending engineering principles with programming for innovative solutions.
+🌱 Continuously learning, building projects, and improving my development skills every day.
 
 ---
 
-## 🌟 Skills
+## 👩‍💻 About Me
 
-### Programming Languages:
-- ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- 💻 Full-stack web developer with experience in **React.js** and **Node.js**
+- ⚡ Strong foundation in **C** and **C++**
+- 📚 Actively learning and practicing **Data Structures & Algorithms**
+- 🔨 Love building scalable and user-friendly web applications
+- 🚀 Interested in software development, open source, and problem-solving
+- 🌟 Always excited to learn new technologies and take on challenging projects
 
-### Key Focus Areas:
+---
+
+## 🚀 Technical Skills
+
+### Languages
+
+- C
+- C++
+
+### Frontend
+
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Core Concepts
+
 - Data Structures & Algorithms
-- Problem Solving & Optimization
-- Software Development & Engineering Practices
+- Object-Oriented Programming
+- Problem Solving
+
+### Tools
+
+- Git & GitHub
+- VS Code
+- Linux
 
 ---
 
-## 📂 Repositories
+## 📂 Projects
 
-### Featured Projects:
+🚀 Currently building projects using **React.js**, **Node.js**, and modern web technologies.
 
-1. **Algorithm Visualizer**  
-   *A tool for visualizing classic algorithms.*  
-   ![Tech](https://img.shields.io/badge/Tech-JavaScript-blue)
+💡 Focusing on creating full-stack applications, strengthening **Data Structures & Algorithms** skills, and exploring scalable software solutions.
 
-2. **Chemical Process Simulator**  
-   *Simulating real-world chemical engineering processes.*  
-   ![Tech](https://img.shields.io/badge/Tech-Java-orange)
-
-3. **DSA Practice Repository**  
-   *A collection of DSA problems with solutions.*  
-   ![Tech](https://img.shields.io/badge/Tech-C%2B%2B-brightgreen)
+📌 Stay tuned for upcoming repositories and exciting projects!
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duxtanya&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duxtanya&layout=compact&theme=radical)
 
 ---
 
-## 📫 Let's Connect
+## 🎯 Current Focus
 
-- LinkedIn: [My Profile](https://www.linkedin.com/in/tanya-agarwal-142571319/)
+- Mastering Data Structures & Algorithms
+- Building Full-Stack Projects
+- Exploring Backend Development
+- Contributing to Open Source
+- Strengthening System Design Fundamentals
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Tanya Agarwal](https://www.linkedin.com/in/tanya-agarwal-142571319/)
 - Email: tanyaagarwal0909@gmail.com
 
 ---
+
+⭐ Turning ideas into code, one project at a time.
+```
