@@ -62,9 +62,7 @@ Hi! I am a **Chemical Engineer** with a passion for technology and coding. My ex
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: [My Profile](https://www.linkedin.com/in/tanya-agarwal-142571319/)
+- Email: tanyaagarwal0909@gmail.com
 
 ---
-
-![Footer Image](https://via.placeholder.com/1200x100.png?text=Happy+Coding!)
